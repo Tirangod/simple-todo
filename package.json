@@ -1,0 +1,25 @@
+{
+  "name": "simpletodo",
+  "version": "1.0.0",
+  "description": "Simple TODO app with beautiful design and ease of use",
+  "main": "index.js",
+  "scripts": {
+    "test": "_"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Tirangod/simple-todo.git"
+  },
+  "keywords": [
+    "TODO"
+  ],
+  "author": "Tirangod",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/Tirangod/simple-todo/issues"
+  },
+  "homepage": "https://github.com/Tirangod/simple-todo#readme",
+  "devDependencies": {
+    "http-server": "^14.1.1"
+  }
+}
